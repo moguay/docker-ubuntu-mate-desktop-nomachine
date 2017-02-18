@@ -7,7 +7,7 @@ Ubuntu Desktop 16.04 (MATE) Dockerfile with NoMachine remote access
 ```
 git clone https://github.com/moguay/docker-ubuntu-mate-desktop-nomachine.git
 cd docker-ubuntu-mate-desktop-nomachine
-docker build -t=cesarandreslopez/docker-ubuntu-mate-desktop-nomachine .
+docker build -t=moguay/docker-ubuntu-mate-desktop-nomachine .
 ```
 ## Docker pull command
 ```
